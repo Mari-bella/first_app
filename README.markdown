@@ -1,8 +1,8 @@
 == Welcome to Rails
 
-# Ruby on Rails Tutorial: первое приложение
+# Ruby on Rails Tutorial: The first application
 
-Это первое приложение для
+This is the first application for
 [*Ruby on Rails Tutorial: Изучение Rails на Примерах*](http://railstutorial.org/)
  [Майкл Хартл](http://michaelhartl.com/).
 
