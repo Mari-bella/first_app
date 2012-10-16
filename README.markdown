@@ -4,7 +4,7 @@
 
 This is the first application for
 [*Ruby on Rails Tutorial: Study Rails by Example*](http://railstutorial.org/)
- [Майкл Хартл](http://michaelhartl.com/).
+ [Michael Stern Hart](http://michaelhartl.com/).
 
 
 Rails is a web-application framework that includes everything needed to create
