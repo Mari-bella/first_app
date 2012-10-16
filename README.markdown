@@ -3,7 +3,7 @@
 # Ruby on Rails Tutorial: The first application
 
 This is the first application for
-[*Ruby on Rails Tutorial: Изучение Rails на Примерах*](http://railstutorial.org/)
+[*Ruby on Rails Tutorial: Study Rails by Example*](http://railstutorial.org/)
  [Майкл Хартл](http://michaelhartl.com/).
 
 
